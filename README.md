@@ -8,7 +8,7 @@ Please cite this code as
   author = {Omidi, Mohammad Amin and Seyfe, Babak and Valaee, Shahrokh},
   title  = {Random Feature Pruning for Multi-Class Classification},
   note   = {Unpublished manuscript},
-  year   = {2025}
+  year   = {2026}
 }
 `
 Below are **three polished, social-media–ready variants**, each with a distinct emphasis. All preserve the technical substance while improving clarity, flow, and engagement. I also explain the **rationale** behind the rewrites and cite the **conceptual references** implicitly used.
@@ -26,7 +26,7 @@ However, most of these randomly generated features are **highly redundant**.
 🔍 **Our contribution:**
 We introduce a *highly efficient feature pruning pipeline* that **automatically removes over 90% of redundant random features**, while *almost entirely preserving classification accuracy*—and significantly accelerating inference.
 
-### 🧠 SEED-MAX-F-test in a nutshell:
+### 🧠 SEED-MAX-F-Test in a nutshell:
 
 1. Pre-train a linear classifier on all random features
 2. Rank features by their regression weights

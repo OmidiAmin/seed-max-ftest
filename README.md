@@ -15,8 +15,6 @@ Below are **three polished, social-media–ready variants**, each with a distinc
 
 ---
 
-## Variant 1 — Research-Focused, High Credibility
-
 **🚀 Demo Code: Random Feature Pruning for Multi-Class Time-Series Classification**
 
 Training accurate classifiers on time-series datasets with *limited labeled samples* remains a fundamental challenge—particularly for data-hungry deep learning models. In low-sample regimes, DL architectures often fail to learn sufficiently informative representations.

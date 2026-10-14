@@ -12,7 +12,7 @@ Please cite this code as
   url = {https://arxiv.org/abs/2610.15101}
 }
 `
-Below are **three polished, social-media–ready variants**, each with a distinct emphasis. All preserve the technical substance while improving clarity, flow, and engagement. I also explain the **rationale** behind the rewrites and cite the **conceptual references** implicitly used.
+
 
 ---
 

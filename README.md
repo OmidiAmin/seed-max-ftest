@@ -4,11 +4,11 @@ and SEED-MAX-F-test methods for pruning random convolutional features of MINIROC
 Please cite this code as
 
 `
-@unpublished{seedmax2025random,
+@article{seedmax2025random,
   author = {Omidi, Mohammad Amin and Seyfe, Babak and Valaee, Shahrokh},
   title  = {Random Feature Pruning for Multi-Class Classification},
-  note   = {Unpublished manuscript},
-  year   = {2026}
+  journal={arXiv preprint},
+  year={2026}
 }
 `
 Below are **three polished, social-media–ready variants**, each with a distinct emphasis. All preserve the technical substance while improving clarity, flow, and engagement. I also explain the **rationale** behind the rewrites and cite the **conceptual references** implicitly used.

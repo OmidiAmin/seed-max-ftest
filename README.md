@@ -1,3 +1,5 @@
+![Experimental results]((Graphical_Abstract)(M_A_O)(June 26 2026).jpg)
+
 This is a simple demo of Successive Empirical Excess risk Difference MAXimization (SEED-MAX)
 and SEED-MAX-F-test methods for pruning random convolutional features of MINIROCKET method.
 
